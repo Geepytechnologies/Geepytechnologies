@@ -9,7 +9,8 @@ I’ve been coding for about 6 years now. I started off learning basic html , cs
 *   🌍  I'm based in Nigeria 🇳🇬
 *   ✉️  You can contact me at [Geepytechnologies@gmail.com](mailto:Geepytechnologies@gmail.com)
 *   🧠  I'm learning Django
-*   🤝  I'm open to collaborating on Interesting and challenging projects### Skills 
+*   🤝  I'm open to collaborating on Interesting and challenging projects
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -52,8 +53,7 @@ I’ve been coding for about 6 years now. I started off learning basic html , cs
                     
  ### Socials 
  <p align="left"> <a href="https://www.github.com/Geepytechnologies " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.medium.com/geepy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Godspower_EC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
-<a href="https://github.com/Geepytechnologies " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geepytechnologies &langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-### Support Me
-
-<a href="https://www.buymeacoffee.com/geepy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+ ### Badges
+ <a href="https://github.com/Geepytechnologies " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geepytechnologies &langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ ### Support Me
+ <a href="https://www.buymeacoffee.com/geepy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
