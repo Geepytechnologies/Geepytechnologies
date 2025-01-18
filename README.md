@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Geepy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Godspower
 =============================================================================================================================
 
-Full stack web developer, Smart contracts
+Full stack developer, Smart contracts
 -----------------------------------------
 
 I’ve been coding for about 8 years now. I started off learning basic html , css and JavaScript after which I moved into learning the popular front end framework called React. It was fascinating putting together pieces of code and bringing any idea to life. I’ve always had the flair for server side technologies. Node Js was my first option before i transitioned into being a senior C# and .Net developer. I took the opportunity of learning how to build scalable backend services leveraging on the express framework, integrating databases, cloud computing with AWS, Azure and much more. Coding is Fun. What’s life without Fun? 😁. Coding is Fun!!!
